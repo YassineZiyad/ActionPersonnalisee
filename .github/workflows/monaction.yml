@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Dire bonjour avec mon action
-        uses: YassineZiyad/actionPersonnalisee@main
+        uses: laraqui/actionPersonnalisee@main
         with:
-          nom: "YassineZiyad"
+          nom: "laraqui"
           langue: "es"
